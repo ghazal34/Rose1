@@ -1,0 +1,58 @@
+*{
+    padding: 9px;
+    margin: 0px;
+}
+
+h1{
+    padding: 15px;
+    margin: 0 auto;
+    background-color:brown
+}
+
+#img{
+    padding: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-right: 50px;
+}
+#p{
+    font-size: 15px;
+   width: 500px;
+ 
+    border: solid 10px black;
+}
+
+ul{
+    float: right;
+    padding-top: 1px;
+}
+
+li{
+    display: inline-block;
+    padding-top: 20px;
+    background-color: brown;
+   
+}
+
+a{
+    color: #000;
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
